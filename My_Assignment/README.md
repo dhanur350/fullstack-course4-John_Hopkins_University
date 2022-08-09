@@ -8,3 +8,8 @@ If we get some error, we shared our code that'll someone will correct our code a
 
 codepen.io
 css-tricks.com
+
+www.w3.org/TR/html5/
+www.caniuse.com
+www.validator.w3.org
+www.w3schools.com/browsers/browsers_stats.asp
