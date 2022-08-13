@@ -13,3 +13,7 @@ www.w3.org/TR/html5/
 www.caniuse.com
 www.validator.w3.org
 www.w3schools.com/browsers/browsers_stats.asp
+Module 1 Completed
+
+CSS Module 2 
+csszengarden.com
